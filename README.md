@@ -1,2 +1,2 @@
-# fuck_name
-fuck_description
+# null_name
+null
