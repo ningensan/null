@@ -5,7 +5,7 @@
 
 int main()
 {
-	cout << "solution" << endl;
+	cout << "commit" << endl;
 
     return 0;
 }
