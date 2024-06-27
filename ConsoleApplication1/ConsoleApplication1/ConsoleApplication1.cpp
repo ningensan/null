@@ -1,4 +1,4 @@
-// ConsoleApplication1.cpp : ÄÜ¼Ö ÀÀ¿ë ÇÁ·Î±×·¥¿¡ ´ëÇÑ ÁøÀÔÁ¡À» Á¤ÀÇÇÕ´Ï´Ù.
+// ConsoleApplication1.cpp : ï¿½Ü¼ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Î±×·ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Õ´Ï´ï¿½.
 //
 
 #include "stdafx.h"
@@ -6,6 +6,8 @@
 int main()
 {
 	cout << "commit" << endl;
+
+    cout << "2nd commit" << endl;
 
     return 0;
 }
